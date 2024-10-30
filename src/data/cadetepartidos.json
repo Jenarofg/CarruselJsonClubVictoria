@@ -1,0 +1,304 @@
+{
+     "cadete":[
+          {
+          "Jornada": 1,
+          "Dia": "29",
+          "Mes": "SEPTIEMBRE",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "G.D. Bosco \"C\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 2,
+          "Dia": "06",
+          "Mes": "OCTUBRE",
+          "Local": "A.D. Lloreda \"B\" ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "LLOREDA",
+          "Ciudad": "Tremañes",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 3,
+          "Dia": "13",
+          "Mes": "OCTUBRE",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "E.F. Mareo \"A\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 4,
+          "Dia": "20",
+          "Mes": "OCTUBRE",
+          "Local": "C.D. Raices \"A\" ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "RAIMUNDO ALVAREZ",
+          "Ciudad": "Raices",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 5,
+          "Dia": "27",
+          "Mes": "OCTUBRE",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "E.F. Jin \"B\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 6,
+          "Dia": "03",
+          "Mes": "NOVIEMBRE",
+          "Local": "C.D. La Braña \"B\" ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "EL MORTERO",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 7,
+          "Dia": "10",
+          "Mes": "NOVIEMBRE",
+          "Local": "C.D. Manuel Rubio \"B\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "LOS PERICONES",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 8,
+          "Dia": "17",
+          "Mes": "NOVIEMBRE",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "Navarro C.F. \"B\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 9,
+          "Dia": "24",
+          "Mes": "NOVIEMBRE",
+          "Local": "G.D. Bosco \"A\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "SANTO DOMINGO",
+          "Ciudad": "Aviles",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 10,
+          "Dia": "01",
+          "Mes": "DICIEMBRE",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "Veriña C.F. \"C\" ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 11,
+          "Dia": "08",
+          "Mes": "DICIEMBRE",
+          "Local": "S.D.At. Camocha \"B\" ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "MUNICIPAL VEGA",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 12,
+          "Dia": "15",
+          "Mes": "DICIEMBRE",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "C. La Inmaculada \"C\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 13,
+          "Dia": "22",
+          "Mes": "DICIEMBRE",
+          "Local": "U.D. Gijon Industrial \"A\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "SANTA CRUZ",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 14,
+          "Dia": "12",
+          "Mes": "ENERO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "C.D. Quirinal \"C\" ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 15,
+          "Dia": "19",
+          "Mes": "ENERO",
+          "Local": "Navarro C.F. \"A\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "TABIELLA 2",
+          "Ciudad": "Aviles",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 16,
+          "Dia": "26",
+          "Mes": "ENERO",
+          "Local": "G.D. Bosco \"C\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "SANTO DOMINGO",
+          "Ciudad": "Aviles",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 17,
+          "Dia": "02",
+          "Mes": "FEBRERO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "A.D. Lloreda \"B\" ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 18,
+          "Dia": "09",
+          "Mes": "FEBRERO",
+          "Local": "E.F. Mareo \"A\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "MAREO 6",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 19,
+          "Dia": "16",
+          "Mes": "FEBRERO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "C.D. Raices \"A\" ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 20,
+          "Dia": "23",
+          "Mes": "FEBRERO",
+          "Local": "E.F. Jin \"B\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "MAXIMINO MARTÍNEZ Nº2",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 21,
+          "Dia": "02",
+          "Mes": "MARZO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "C.D. La Braña \"B\" ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 22,
+          "Dia": "09",
+          "Mes": "MARZO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "C.D. Manuel Rubio \"B\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 23,
+          "Dia": "16",
+          "Mes": "MARZO",
+          "Local": "Navarro C.F. \"B\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "TABIELLA 2",
+          "Ciudad": "Aviles",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 24,
+          "Dia": "23",
+          "Mes": "MARZO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "G.D. Bosco \"A\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 25,
+          "Dia": "30",
+          "Mes": "MARZO",
+          "Local": "Veriña C.F. \"C\" ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "LLOREDA",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 26,
+          "Dia": "06",
+          "Mes": "ABRIL",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "S.D.At. Camocha \"B\" ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 27,
+          "Dia": "27",
+          "Mes": "ABRIL",
+          "Local": "C. La Inmaculada \"C\"  ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "COLEGIO INMACULADA",
+          "Ciudad": "Gijón",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 28,
+          "Dia": "04",
+          "Mes": "MAYO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "U.D. Gijon Industrial \"A\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          },
+          {
+          "Jornada": 29,
+          "Dia": "11",
+          "Mes": "MAYO",
+          "Local": "C.D. Quirinal \"C\" ",
+          "Visitante": "Club Victoria \"A\" ",
+          "Campo": "LA TOBA 1",
+          "Ciudad": "Avilés",
+          "Tipo de cesped": "H.Sintética"
+          },
+          {
+          "Jornada": 30,
+          "Dia": "18",
+          "Mes": "MAYO",
+          "Local": "Club Victoria \"A\" ",
+          "Visitante": "Navarro C.F. \"A\"  ",
+          "Campo": "Perlora",
+          "Ciudad": "Perlora",
+          "Tipo de cesped": "H.Natural"
+          }
+     ]
+}
